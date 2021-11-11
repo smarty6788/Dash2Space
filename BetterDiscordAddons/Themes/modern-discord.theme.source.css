@@ -2,19 +2,19 @@
     --theme-version:"21.10.08a (hotfix) "
 }
 
-[id^="Alexis Modern Discord Theme"] .bd-addon-header .bd-version:before{
+[id^="ModernX BDTheme"] .bd-addon-header .bd-version:before{
     content:"version " var(--theme-version)
 }
 
 .info-1VyQPT:after{
-    content:"Alexis Jonsson Modern Discord Theme - " var(--theme-version);top:16px;color:var(--text-muted);position:relative
+    content:"ModernX BDTheme - " var(--theme-version);top:16px;color:var(--text-muted);position:relative
 }
 
-[id^="Alexis Modern Discord Theme"] .bd-addon-header .bd-version{
+[id^="ModernX BDTheme"] .bd-addon-header .bd-version{
     font-size:0
 }
 
-[id^="Alexis Modern Discord Theme"] .bd-addon-header .bd-version:before{
+[id^="ModernX BDTheme"] .bd-addon-header .bd-version:before{
     font-size:14px
 }
 
