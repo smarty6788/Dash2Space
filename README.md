@@ -8,7 +8,7 @@ Welcome to ModernX a BetterDiscord theme. We plan to give a modern looking theme
 ## Installing
 
 1. Download the latest CSS file from the [releases](https://github.com/Slddev/ModernX-BDTheme/releases).
-2. Copy the CSS file to `%appdata%/BetterDiscord\themes`
+2. Copy the CSS file to `%appdata%/BetterDiscord/themes`
 3. Enable the theme in BetterDiscord settings.
 
 ### Support
