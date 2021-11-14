@@ -11,6 +11,10 @@ Welcome to ModernX a BetterDiscord theme. We plan to give a modern looking theme
 2. Copy the CSS file to `%appdata%/BetterDiscord/themes`
 3. Enable the theme in BetterDiscord settings.
 
+### Credits
+- [HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList)
+- [RadialStatus](https://github.com/DiscordStyles/RadialStatus)
+
 ### Support
 
 Contact me at Sappy#8123 for support.
