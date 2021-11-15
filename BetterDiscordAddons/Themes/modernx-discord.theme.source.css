@@ -1234,6 +1234,14 @@ body.foldercontentopened .base-3dtUhz{
     background-color:var(--background-primary)
 }
 
+.theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
+    background:var(--background-floating)
+}
+
+.theme-dark .scroller-1-nKid {
+    background:var(--background-floating-alt)
+}
+
 .avatarWrapper-2yR4wp[aria-expanded=false]~.nameTag-3uD-yy{
     z-index:10
 }
