@@ -8612,3 +8612,137 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP{
 
 .containerDefault--pIXnN a:active:after{
     color:var(--interactive-active);background-color:var(--background-secondary-alt);tra
+    color:var(--interactive-active);background-color:var(--background-secondary-alt);transform:translateY(1px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*=BetterDiscord]:after{
+    content:"";background-color:#221e41
+}
+
+.sidebar-2K8pFh .container-3w7J-x:after{
+    position:fixed;width:100%;left:0;right:0;top:0;height:12px;z-index:4
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv{
+    display:flex;flex-wrap:wrap;flex-direction:row
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv a .iconContainer-1BBaeJ{
+    --size:32px;left:calc(50% - 16px);margin-bottom:12px
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv a .name-23GUGE{
+    text-align:center;font-size:14px
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN{
+    width:50%;margin-left:8px;margin-bottom:8px
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .content-1x5b-n{
+    padding:8px;margin:0
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN:nth-child(odd){
+    width:calc(50% - 8px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN:nth-child(even){
+    width:calc(50% - 8px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .content-1x5b-n .mainContent-u_9PKf .iconContainer-1BBaeJ{
+    transition:transform 45ms ease
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .content-1x5b-n:active .mainContent-u_9PKf .iconContainer-1BBaeJ{
+    transform:translate(0,2px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .mainContent-u_9PKf{
+    display:block
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault-3tr_sE{
+    width:100%
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv{
+    display:flex;flex-wrap:wrap;flex-direction:row
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .wrapper-2jXpOf{
+    padding:0
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .content-1x5b-n{
+    background-color:var(--background-transparent-header)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .content-1x5b-n:hover{
+    background-color:var(--background-modifier-hover)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault-3tr_sE~.containerDefault--pIXnN{
+    width:100%
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .name-1jkAdW{
+    font-size:calc(var(--server-title-fontsize) + 2px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"]:after{
+    content:"";background-color:#534466;height:24px
+}
+
+.container-3w7J-x[aria-label*="Alexis Modern Theme"] .scroller-RmtA4e.thin-1ybCId.scrollerBase-289Jih{
+    --mask-image:none
+}
+
+.container-3w7J-x .scroller-RmtA4e.thin-1ybCId.scrollerBase-289Jih{
+    --mask-image:linear-gradient(to bottom, rgba(0, 0, 0, 0), rgb(0, 0, 0) 24px);-webkit-mask-image:var(--mask-image);mask-image:var(--mask-image)
+}
+
+.theme-light .container-3w7J-x[aria-label*="Chokepoint Dev"] .container-1taM1r:after{
+    filter:invert(1)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] .container-1taM1r:after{
+    content:"";position:absolute;--margin:0px;top:var(--margin);left:var(--margin);right:var(--margin);bottom:-125%;background-image:url(https://alexisjonsson.github.io/BetterDiscordAddons/Themes/banners/chokepoint-games-dev-bannerv4.png);background-repeat:no-repeat;background-size:cover;opacity:.64;transition:opacity .45s ease;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;--gradient-offset:100px;--gradient-pos:0px;--mask-image:linear-gradient( to top, rgba(0, 0, 0, 0) var(--gradient-pos), rgb(0, 0, 0) var(--gradient-offset), rgb(0, 0, 0) 100%);-webkit-mask-image:var(--mask-image);mask-image:var(--mask-image);pointer-events:none
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] .container-1taM1r:hover:after{
+    opacity:1
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] .mainContent-2h-GEV[aria-expanded=true]:after,.container-3w7J-x[aria-label*="Chokepoint Games"] .mainContent-2h-GEV[aria-expanded=true]:after{
+    content:"";position:absolute;width:var(--sidebar-width);background-image:var(--cat-bg);height:256px;top:0;z-index:-1;right:0;left:0;background-size:cover;background-repeat:no-repeat;--mask-image:linear-gradient( to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .15) 25%, rgba(0, 0, 0, 0) 100% );-webkit-mask-image:var(--mask-image);mask-image:var(--mask-image);filter:saturate(0) contrast(1.75) brightness(.5)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Sins of the Prophets"]:after,.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Sins of the Prophets"]:after{
+    --cat-bg:url(https://i.imgur.com/Pk6F40H.jpg)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Far Isle"]:after,.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Far Isle"]:after{
+    --cat-bg:url(https://i.imgur.com/NYJR57L.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*=Evolutions]:after,.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*=Evolutions]:after{
+    --cat-bg:url(https://i.imgur.com/NVnW6g0.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*=Homefront]:after,.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*=Homefront]:after{
+    --cat-bg:url(https://i.imgur.com/6BTblIw.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Dawn of the Reapers"]:after,.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Dawn of the Reapers"]:after{
+    --cat-bg:url(https://i.imgur.com/3pYGgak.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Sins of a Galactic Empire"]:after,.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Sins of a Galactic Empire"]:after{
+    --cat-bg:url(https://i.imgur.com/EEXFOrg.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Internalized Memes"]:after{
+    --cat-bg:url(https://i.imgur.com/hdzXiuU.jpg)
+}
