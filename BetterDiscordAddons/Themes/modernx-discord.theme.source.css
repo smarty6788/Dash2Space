@@ -558,6 +558,26 @@
     width:var(--server-size);height:var(--server-size)
 }
 
+.header-3msK0M {
+    overflow: hidden;
+}
+
+.header-1BLHoL {
+    overflow: hidden;
+}
+
+.header-287ONi {
+    overflow: hidden;
+}
+
+.backButton-iA7KIs {
+    color: #fff;
+}
+
+.lookBlank-3eh9lL {
+    color: #fff;
+}
+
 #app-mount .guilds-1SWlCJ [role=group]{
     height:auto!important
 }
