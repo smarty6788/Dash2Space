@@ -1,7 +1,7 @@
 /**
  * @name ModernX DBTheme
  * @author Sappy / Sappy#8123
- * @version 21.11.14a
+ * @version 21.11.29a
  * @description A fork of Alexis Modern Discord Theme, but better :)
  * @source https://github.com/Slddev/ModernX-BDTheme/tree/master/BetterDiscordAddons/Themes
 */
@@ -45,5 +45,5 @@
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
   --rs-phone-color: var(--rs-online-color); /* Colour of the ring and phone icon when a user is on their phone |  */
 
-  --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
+  --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
 }
