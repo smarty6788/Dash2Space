@@ -1,5 +1,5 @@
 @import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);:root{
-    --theme-version:"21.12.13b"
+    --theme-version:"21.12.15a"
 }
 
 [id^="ModernX BDTheme"] .bd-addon-header .bd-version:before{
@@ -8530,4 +8530,389 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP{
     --icon:var(--icon-skateboarding);background-color:var(--icon-color)
 }
 
-.container-3w7J-x a[aria-label*="(Sprachkanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(balso kanalas)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(canal de voce)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(canal de voz)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(canale vocale)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(glasovni kanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(hangcsatorna)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(hlasový kanál)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(kanał głosowy)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(kênh thoại)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(puhekanava)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(röstkanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(salon vocal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(ses kanalı)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(spraakkanaal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(talekanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(voice channel)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(κανάλι ομιλίας)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(гласов канал)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(голосовий канал)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(голосовой канал)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(वॉयस चैनल)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(ช่องสำหรับพูด)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(ボイスチャンネル)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(語音頻道)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(음성 채널)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="（语音频道）"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canal de escenario"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canal palco"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canal podium"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canale palco"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Kanal s pozornicom"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Kanał tymczasowy"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Kênh Sân Khấu"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Pódiumcsatorna"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Sahne Kanalı"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Salon de conférence"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Scenos kanalas"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Stage Channel"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Řečnický kanál"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Κανάλι φάσης"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Канал подіума"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Подготовка на канал"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Трибуна"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="स्टेज
+.container-3w7J-x a[aria-label*="(Sprachkanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(balso kanalas)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(canal de voce)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(canal de voz)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(canale vocale)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(glasovni kanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(hangcsatorna)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(hlasový kanál)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(kanał głosowy)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(kênh thoại)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(puhekanava)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(röstkanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(salon vocal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(ses kanalı)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(spraakkanaal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(talekanal)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(voice channel)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(κανάλι ομιλίας)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(гласов канал)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(голосовий канал)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(голосовой канал)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(वॉयस चैनल)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(ช่องสำหรับพูด)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(ボイスチャンネル)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(語音頻道)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="(음성 채널)"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label*="（语音频道）"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canal de escenario"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canal palco"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canal podium"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Canale palco"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Kanal s pozornicom"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Kanał tymczasowy"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Kênh Sân Khấu"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Pódiumcsatorna"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Sahne Kanalı"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Salon de conférence"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Scenos kanalas"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Stage Channel"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Řečnický kanál"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Κανάλι φάσης"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Канал подіума"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Подготовка на канал"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="Трибуна"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="स्टेज चैनल"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="ช่องเวที"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="ステージチャンネル"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="舞台頻道"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="讲堂频道"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label="스테이지 채널"] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label=Esityskanava] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label=Podiekanal] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label=Podiumkanaal] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label=Podiumskanal] .iconContainer-1BBaeJ,.container-3w7J-x a[aria-label=Scenekanal] .iconContainer-1BBaeJ{--icon:none!important;background-color:transparent}.container-3w7J-x a[aria-label*="(Sprachkanal)"],.container-3w7J-x a[aria-label*="(balso kanalas)"],.container-3w7J-x a[aria-label*="(canal de voce)"],.container-3w7J-x a[aria-label*="(canal de voz)"],.container-3w7J-x a[aria-label*="(canale vocale)"],.container-3w7J-x a[aria-label*="(glasovni kanal)"],.container-3w7J-x a[aria-label*="(hangcsatorna)"],.container-3w7J-x a[aria-label*="(hlasový kanál)"],.container-3w7J-x a[aria-label*="(kanał głosowy)"],.container-3w7J-x a[aria-label*="(kênh thoại)"],.container-3w7J-x a[aria-label*="(puhekanava)"],.container-3w7J-x a[aria-label*="(röstkanal)"],.container-3w7J-x a[aria-label*="(salon vocal)"],.container-3w7J-x a[aria-label*="(ses kanalı)"],.container-3w7J-x a[aria-label*="(spraakkanaal)"],.container-3w7J-x a[aria-label*="(talekanal)"],.container-3w7J-x a[aria-label*="(voice channel)"],.container-3w7J-x a[aria-label*="(κανάλι ομιλίας)"],.container-3w7J-x a[aria-label*="(гласов канал)"],.container-3w7J-x a[aria-label*="(голосовий канал)"],.container-3w7J-x a[aria-label*="(голосовой канал)"],.container-3w7J-x a[aria-label*="(वॉयस चैनल)"],.container-3w7J-x a[aria-label*="(ช่องสำหรับพูด)"],.container-3w7J-x a[aria-label*="(ボイスチャンネル)"],.container-3w7J-x a[aria-label*="(語音頻道)"],.container-3w7J-x a[aria-label*="(음성 채널)"],.container-3w7J-x a[aria-label*="（语音频道）"],.container-3w7J-x a[aria-label="Canal de escenario"],.container-3w7J-x a[aria-label="Canal palco"],.container-3w7J-x a[aria-label="Canal podium"],.container-3w7J-x a[aria-label="Canale palco"],.container-3w7J-x a[aria-label="Kanal s pozornicom"],.container-3w7J-x a[aria-label="Kanał tymczasowy"],.container-3w7J-x a[aria-label="Kênh Sân Khấu"],.container-3w7J-x a[aria-label="Pódiumcsatorna"],.container-3w7J-x a[aria-label="Sahne Kanalı"],.container-3w7J-x a[aria-label="Salon de conférence"],.container-3w7J-x a[aria-label="Scenos kanalas"],.container-3w7J-x a[aria-label="Stage Channel"],.container-3w7J-x a[aria-label="Řečnický kanál"],.container-3w7J-x a[aria-label="Κανάλι φάσης"],.container-3w7J-x a[aria-label="Канал подіума"],.container-3w7J-x a[aria-label="Подготовка на канал"],.container-3w7J-x a[aria-label="Трибуна"],.container-3w7J-x a[aria-label="स्टेज चैनल"],.container-3w7J-x a[aria-label="ช่องเวที"],.container-3w7J-x a[aria-label="ステージチャンネル"],.container-3w7J-x a[aria-label="舞台頻道"],.container-3w7J-x a[aria-label="讲堂频道"],.container-3w7J-x a[aria-label="스테이지 채널"],.container-3w7J-x a[aria-label=Esityskanava],.container-3w7J-x a[aria-label=Podiekanal],.container-3w7J-x a[aria-label=Podiumkanaal],.container-3w7J-x a[aria-label=Podiumskanal],.container-3w7J-x a[aria-label=Scenekanal]{pointer-events:none}
+
+.container-3w7J-x a[aria-label=Podiekanal]:after,
+.containerDefault--pIXnN a[aria-label*="(talekanal)"]:after {
+    content: "Tilslutte"
+}
+
+.container-3w7J-x a[aria-label=Podiumskanal]:after,
+.containerDefault--pIXnN a[aria-label*="(Sprachkanal)"]:after {
+    content: "Verbinden"
+}
+
+.container-3w7J-x a[aria-label="Stage Channel"]:after,
+.containerDefault--pIXnN a[aria-label*="(voice channel)"]:after {
+    content: "Connect"
+}
+
+[aria-label=Canales] .container-3w7J-x a[aria-label="Canal de escenario"]:after,
+[aria-label=Canales] .containerDefault--pIXnN a[aria-label*="(canal de voz)"]:after {
+    content: "Conectar"
+}
+
+.container-3w7J-x a[aria-label="Salon de conférence"]:after,
+.containerDefault--pIXnN a[aria-label*="(salon vocal)"]:after {
+    content: "Relier"
+}
+
+.container-3w7J-x a[aria-label="Kanal s pozornicom"] :after,
+.containerDefault--pIXnN a[aria-label*="(glasovni kanal)"]:after {
+    content: "Spojiti"
+}
+
+.container-3w7J-x a[aria-label="Canale palco"]:after,
+.containerDefault--pIXnN a[aria-label*="(canale vocale)"]:after {
+    content: "Aderire"
+}
+
+.container-3w7J-x a[aria-label="Scenos kanalas"]:after,
+.containerDefault--pIXnN a[aria-label*="(balso kanalas)"]:after {
+    content: "Prisijunk"
+}
+
+.container-3w7J-x a[aria-label="Pódiumcsatorna"]:after,
+.containerDefault--pIXnN a[aria-label*="(hangcsatorna)"]:after {
+    content: "Csatlakozás"
+}
+
+.container-3w7J-x a[aria-label=Podiumkanaal]:after,
+.containerDefault--pIXnN a[aria-label*="(spraakkanaal)"]:after {
+    content: "Aansluiten"
+}
+
+.container-3w7J-x [aria-label=Kanaler] a[aria-label=Scenekanal]:after,
+[aria-label=Kanaler] .containerDefault--pIXnN a[aria-label*="(talekanal)"]:after {
+    content: "Bli med"
+}
+
+.container-3w7J-x a[aria-label="Kanał tymczasowy"]:after,
+.containerDefault--pIXnN a[aria-label*="(kanał głosowy)"]:after {
+    content: "Dołączyć"
+}
+
+.container-3w7J-x [aria-label=Canais] a[aria-label="Canal palco"]:after,
+[aria-label=Canais] .containerDefault--pIXnN a[aria-label*="(canal de voz)"]:after {
+    content: "Juntar"
+}
+
+.container-3w7J-x a[aria-label="Canal podium"]:after,
+.containerDefault--pIXnN a[aria-label*="(canal de voce)"]:after {
+    content: "Conectați"
+}
+
+.container-3w7J-x a[aria-label=Esityskanava]:after,
+.containerDefault--pIXnN a[aria-label*="(puhekanava)"]:after {
+    content: "Kytkeä"
+}
+
+.container-3w7J-x [aria-label=Kanaler] a[aria-label=Podiekanal]:after,
+[aria-label=Kanaler] .containerDefault--pIXnN a[aria-label*="(röstkanal)"]:after {
+    content: "Anslut"
+}
+
+.container-3w7J-x a[aria-label="Kênh Sân Khấu"]:after,
+.containerDefault--pIXnN a[aria-label*="(kênh thoại)"]:after {
+    content: "Liên kết"
+}
+
+.container-3w7J-x a[aria-label="Sahne Kanalı"]:after,
+.containerDefault--pIXnN a[aria-label*="(ses kanalı)"]:after {
+    content: "Bağlamak"
+}
+
+.container-3w7J-x a[aria-label="Řečnický kanál"]:after,
+.containerDefault--pIXnN a[aria-label*="(hlasový kanál)"]:after {
+    content: "Připojit"
+}
+
+.container-3w7J-x a[aria-label="Κανάλι φάσης"]:after,
+.containerDefault--pIXnN a[aria-label*="(κανάλι ομιλίας)"]:after {
+    content: "Συμμετοχή"
+}
+
+.container-3w7J-x a[aria-label="Подготовка на канал"]:after,
+.containerDefault--pIXnN a[aria-label*="(гласов канал)"]:after {
+    content: "Свържете се"
+}
+
+.container-3w7J-x a[aria-label="Трибуна"]:after,
+.containerDefault--pIXnN a[aria-label*="(голосовой канал)"]:after {
+    content: "Подключится"
+}
+
+.container-3w7J-x a[aria-label="Канал подіума"]:after,
+.containerDefault--pIXnN a[aria-label*="(голосовий канал)"]:after {
+    content: "Підключіться"
+}
+
+.container-3w7J-x a[aria-label="स्टेज चैनल"]:after,
+.containerDefault--pIXnN a[aria-label*="(वॉयस चैनल)"]:after {
+    content: "जुडिये"
+}
+
+.container-3w7J-x a[aria-label="ช่องเวที"]:after,
+.containerDefault--pIXnN a[aria-label*="(ช่องสำหรับพูด)"]:after {
+    content: "เชื่อมต่อ"
+}
+
+.container-3w7J-x a[aria-label="讲堂频道"]:after,
+.containerDefault--pIXnN a[aria-label*="（语音频道）"]:after {
+    content: "连接"
+}
+
+.container-3w7J-x a[aria-label="ステージチャンネル"]:after,
+.containerDefault--pIXnN a[aria-label*="(ボイスチャンネル)"]:after {
+    content: "接続"
+}
+
+.container-3w7J-x a[aria-label="舞台頻道"]:after,
+.containerDefault--pIXnN a[aria-label*="(語音頻道)"]:after {
+    content: "連接"
+}
+
+.container-3w7J-x a[aria-label="스테이지 채널"]:after,
+.containerDefault--pIXnN a[aria-label*="(음성 채널)"]:after {
+    content: "연결하기"
+}
+
+.containerDefault--pIXnN a:after {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    opacity: 0;
+    pointer-events: all;
+    transition: opacity .125s ease-in-out, background-color .07s ease, transform .125s ease;
+    background-color: var(--background-tertiary);
+    color: var(--interactive-normal);
+    border-radius: 4px;
+    margin-left: 6px;
+    right: 8px;
+    padding: 4px 8px;
+    align-items: center;
+    justify-content: center;
+    -webkit-box-flex: 0;
+    box-sizing: border-box;
+    transform: translateX(12px) scale(1);
+    font-family: var(--font-primary);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-align: center;
+    cursor: pointer
+}
+
+.containerDefault--pIXnN:hover a:after {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+    position: relative;
+    right: 0
+}
+
+.containerDefault--pIXnN a:hover:after {
+    background-color: var(--background-secondary-alt);
+    color: var(--interactive-hover);
+    transition: transform 0s linear
+}
+
+.containerDefault--pIXnN a:active:after {
+    color: var(--interactive-active);
+    background-color: var(--background-secondary-alt);
+    transform: translateY(1px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*=BetterDiscord]:after {
+    content: "";
+    background-color: #221e41
+}
+
+.sidebar-2K8pFh .container-3w7J-x:after {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 12px;
+    z-index: 4
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv a .iconContainer-1BBaeJ {
+    --size: 32px;
+    left: calc(50% - 16px);
+    margin-bottom: 12px
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv a .name-23GUGE {
+    text-align: center;
+    font-size: 14px
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN {
+    width: 50%;
+    margin-left: 8px;
+    margin-bottom: 8px
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .content-1x5b-n {
+    padding: 8px;
+    margin: 0
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN:nth-child(odd) {
+    width: calc(50% - 8px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN:nth-child(even) {
+    width: calc(50% - 8px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .content-1x5b-n .mainContent-u_9PKf .iconContainer-1BBaeJ {
+    transition: transform 45ms ease
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .content-1x5b-n:active .mainContent-u_9PKf .iconContainer-1BBaeJ {
+    transform: translate(0, 2px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault--pIXnN .mainContent-u_9PKf {
+    display: block
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault-3tr_sE {
+    width: 100%
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .wrapper-2jXpOf {
+    padding: 0
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .content-1x5b-n {
+    background-color: var(--background-transparent-header)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .content-1x5b-n:hover {
+    background-color: var(--background-modifier-hover)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .content-3YMskv .containerDefault-3tr_sE~.containerDefault--pIXnN {
+    width: 100%
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"] .name-1jkAdW {
+    font-size: calc(var(--server-title-fontsize) + 2px)
+}
+
+.sidebar-2K8pFh .container-3w7J-x[aria-label*="Alexis Modern Theme"]:after {
+    content: "";
+    background-color: #534466;
+    height: 24px
+}
+
+.container-3w7J-x[aria-label*="Alexis Modern Theme"] .scroller-RmtA4e.thin-1ybCId.scrollerBase-289Jih {
+    --mask-image: none
+}
+
+.container-3w7J-x .scroller-RmtA4e.thin-1ybCId.scrollerBase-289Jih {
+    --mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgb(0, 0, 0) 24px);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image)
+}
+
+.theme-light .container-3w7J-x[aria-label*="Chokepoint Dev"] .container-1taM1r:after {
+    filter: invert(1)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] .container-1taM1r:after {
+    content: "";
+    position: absolute;
+    --margin: 0px;
+    top: var(--margin);
+    left: var(--margin);
+    right: var(--margin);
+    bottom: -125%;
+    background-image: url(https://alexisjonsson.github.io/BetterDiscordAddons/Themes/banners/chokepoint-games-dev-bannerv4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .64;
+    transition: opacity .45s ease;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    --gradient-offset: 100px;
+    --gradient-pos: 0px;
+    --mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) var(--gradient-pos), rgb(0, 0, 0) var(--gradient-offset), rgb(0, 0, 0) 100%);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+    pointer-events: none
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] .container-1taM1r:hover:after {
+    opacity: 1
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] .mainContent-2h-GEV[aria-expanded=true]:after,
+.container-3w7J-x[aria-label*="Chokepoint Games"] .mainContent-2h-GEV[aria-expanded=true]:after {
+    content: "";
+    position: absolute;
+    width: var(--sidebar-width);
+    background-image: var(--cat-bg);
+    height: 256px;
+    top: 0;
+    z-index: -1;
+    right: 0;
+    left: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    --mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .15) 25%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+    filter: saturate(0) contrast(1.75) brightness(.5)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Sins of the Prophets"]:after,
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Sins of the Prophets"]:after {
+    --cat-bg: url(https://i.imgur.com/Pk6F40H.jpg)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Far Isle"]:after,
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Far Isle"]:after {
+    --cat-bg: url(https://i.imgur.com/NYJR57L.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*=Evolutions]:after,
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*=Evolutions]:after {
+    --cat-bg: url(https://i.imgur.com/NVnW6g0.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*=Homefront]:after,
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*=Homefront]:after {
+    --cat-bg: url(https://i.imgur.com/6BTblIw.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Dawn of the Reapers"]:after,
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Dawn of the Reapers"]:after {
+    --cat-bg: url(https://i.imgur.com/3pYGgak.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Dev"] [aria-label*="Sins of a Galactic Empire"]:after,
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Sins of a Galactic Empire"]:after {
+    --cat-bg: url(https://i.imgur.com/EEXFOrg.png)
+}
+
+.container-3w7J-x[aria-label*="Chokepoint Games"] [aria-label*="Internalized Memes"]:after {
+    --cat-bg: url(https://i.imgur.com/hdzXiuU.jpg)
+}
