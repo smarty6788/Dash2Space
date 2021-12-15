@@ -1,4 +1,4 @@
-<h1 align="center">ModernX-BDTheme</h1>
+<h1 align="center">ModernX-Theme</h1>
 <img src="https://user-images.githubusercontent.com/74999267/141325832-53278b4a-20eb-41dc-9c4c-de3cdba354d3.png" />
 <img src="https://user-images.githubusercontent.com/74999267/141706188-d9d19e58-705f-46a1-b3e8-18ee7823155c.png" />
 
