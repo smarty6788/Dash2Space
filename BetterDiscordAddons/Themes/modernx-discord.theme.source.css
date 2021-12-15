@@ -2,19 +2,19 @@
     --theme-version:"21.12.15a"
 }
 
-[id^="ModernX BDTheme"] .bd-addon-header .bd-version:before{
+[id^="ModernX Theme"] .bd-addon-header .bd-version:before{
     content:"version " var(--theme-version)
 }
 
 .info-1VyQPT:after{
-    content:"ModernX BDTheme - " var(--theme-version);top:16px;color:var(--text-muted);position:relative
+    content:"ModernX Theme - " var(--theme-version);top:16px;color:var(--text-muted);position:relative
 }
 
-[id^="ModernX BDTheme"] .bd-addon-header .bd-version{
+[id^="ModernX Theme"] .bd-addon-header .bd-version{
     font-size:0
 }
 
-[id^="ModernX BDTheme"] .bd-addon-header .bd-version:before{
+[id^="ModernX Theme"] .bd-addon-header .bd-version:before{
     font-size:14px
 }
 
