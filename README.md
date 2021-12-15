@@ -8,9 +8,16 @@ Welcome to ModernX a Discord theme. We plan to give a modern looking theme with 
 
 ## Installing
 
+### BetterDiscord
 1. Download the latest CSS file from the [releases](https://github.com/Slddev/ModernX-Theme/releases).
 2. Copy the CSS file to `%appdata%/BetterDiscord/themes`
 3. Enable the theme in BetterDiscord settings.
+
+### Powercord
+1. Go to Powercord's theme folder.
+2. Open a terminal of your choice and run this command: `git clone --branch powercord https://github.com/Slddev/ModernX-Theme`
+3. Go to the themes tab and click "Load missing themes".
+4. Enjoy!
 
 ### Credits
 - [HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList)
