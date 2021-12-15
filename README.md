@@ -15,7 +15,7 @@ Welcome to ModernX a Discord theme. We plan to give a modern looking theme with 
 
 ### Powercord
 1. Go to Powercord's theme folder.
-2. Open a terminal of your choice and run this command: `git clone --branch powercord https://github.com/Slddev/ModernX-Theme`
+2. Open a terminal of your choice and run this command: `git clone https://github.com/Slddev/ModernX-Theme`
 3. Go to the themes tab and click "Load missing themes".
 4. Enjoy!
 
