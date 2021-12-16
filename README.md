@@ -26,3 +26,9 @@ Welcome to ModernX a Discord theme. We plan to give a modern looking theme with 
 ### Support
 
 Contact me at Sappy#8123 for support.
+
+### Disclaimer
+
+I am not the original maker of this theme, rather this is a fork. The original author of this theme is currently inactive, so I chose to maintain it myself. If the original author wants the theme taken down, I will gladly comply.
+
+*Do not bother the original author if **my** fork has a problem. Make an issue here on Github or contact me via Discord.*
