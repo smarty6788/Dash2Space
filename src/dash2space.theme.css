@@ -26,4 +26,5 @@
 .title-31SJ6t .iconWrapper-2awDjA+.title-17SveM,
 .wrapper-1ZcZW-[class="wrapper-1ZcZW- mention interactive"] {
     font-family: dash2space, var(--font-primary);
-    text-trans
+    text-transform: capitalize
+}
