@@ -8,6 +8,14 @@
     content: "v"var(--theme-version)
 }
 
+.metadata>.version span {
+    display: none;
+}
+
+.metadata>.version:after {
+    content: "v"var(--theme-version);
+}
+
 .info-1sUqUG:after {
     content: "ModernX Theme - "var(--theme-version);
     top: 16px;
