@@ -713,7 +713,8 @@
     color: var(--text-normal);
 }
 
-.container-3XgAHv, .floating-3M3WeH {
+.container-3XgAHv,
+.floating-3M3WeH {
     max-width: 400px;
 }
 
@@ -3321,8 +3322,48 @@ body.foldercontentopened .base-2jDfDU {
 .spotify-buttons {
     margin: 0;
     top: 50%;
-    left: 90%;
+    left: 10rem;
     position: relative;
+}
+
+.powercord-spotify>.container-YkUktl>.avatarWrapper-1B9FTW {
+    margin-top: 41.5rem !important;
+    left: 7px;
+    transition: 0.2s
+}
+
+.powercord-spotify:hover>.container-YkUktl>.avatarWrapper-1B9FTW {
+    margin-top: 39.75rem !important;
+}
+
+.powercord-spotify>.container-YkUktl>.nameTag-sc-gpq {
+    margin-top: 41rem !important;
+    left: 3rem;
+    transition: 0.2s;
+    width: 7rem;
+}
+
+.powercord-spotify:hover>.container-YkUktl>.nameTag-sc-gpq {
+    margin-top: 39.3rem !important;
+}
+
+.spotify-artist {
+    display: block !important;
+}
+
+.spotify-title>.title-338goq {
+    height: 25px;
+    width: 7rem;
+}
+
+.powercord-snippet-apply:not(.applied) div:hover {
+    border-radius: 4px;
+    background-color: var(--background-modifier-hover);
+    padding: 7px;
+}
+
+.powercord-snippet-apply:not(.applied) div {
+    padding: 7px
 }
 
 .panels-3wFtMD:before {
