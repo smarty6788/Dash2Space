@@ -20,6 +20,7 @@ Hiya! Dash2Space is a simple snippet that allows users to see discord channels w
 
 ### Credits
 - [ModernX-Theme](https://github.com/Slddev/ModernX-Theme)
+- [NatesWorld](https://github.com/NatesWorld) | Fixed the channel headers.
 
 ### Support
 
